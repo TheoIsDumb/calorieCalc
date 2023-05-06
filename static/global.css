@@ -1,0 +1,14 @@
+h1, select, input {
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main.container {
+    display: flex;
+    height: 100dvh;
+    justify-content: center;
+    align-items: center;
+}
