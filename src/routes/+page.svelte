@@ -54,5 +54,12 @@
         <h1 style="visibility: hidden">test</h1>
     {/if}
 
-    <div class="bottom">made by <a href="https://vkdbois.xyz" target="_blank" rel="noopener noreferrer">vkdbois.xyz</a></div>
+
+    <div class="bottom">
+        <a href="https://git.vkdbois.xyz/theo/calorieCalc"
+        target="_blank" rel="noopener noreferrer">
+            source code
+    </a> | 
+        made by <a href="https://vkdbois.xyz" target="_blank" rel="noopener noreferrer">vkdbois.xyz</a>
+    </div>
 </main>
