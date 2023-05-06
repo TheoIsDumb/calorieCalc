@@ -27,8 +27,9 @@
         text-align: center;
     }
 
-    .flex {
-        display: flex;
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
         gap: 0.5rem;
     }
 </style>
@@ -40,7 +41,7 @@
 
     <NumInput bind:value={age} label={labels[0]}/>
 
-    <div class="flex">
+    <div class="grid">
         <NumInput bind:value={weight} label={labels[1]}/>
         <NumInput bind:value={height} label={labels[2]}/>
     </div>
