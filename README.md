@@ -1,15 +1,5 @@
-<style>
-    .flex {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-</style>
-
-<div class="flex">
-    <img src="caloriecalc.svg" width="128" height="128"/>
-    <h3>calorieCalc</h3>
-</div>
+<img align="center" src="caloriecalc.svg" width="128" height="128"/>
+<h3 align="center">calorieCalc</h3>
 
 something i made for my younger brother, who is a gymbro.
 
